@@ -8,7 +8,7 @@ Se instalaron los requisitos necesarios para el desarrollo en Java:
 
 ## 2. Capturas obligatorias del entorno
 Las evidencias de la instalación se encuentran en la carpeta `/docs`:
-* **Java Version**: ![Java](./docs/Captura de pantalla1 2026-02-19 205325.png)
+* **Java Version**: ![Java](.docs/Captura de pantalla1 2026-02-19 205325.png)
 * **Maven Version**:
 
 ## 3. Ejercicio Java con Maven
