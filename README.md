@@ -8,13 +8,13 @@ Se instalaron los requisitos necesarios para el desarrollo en Java:
 
 ## 2. Capturas obligatorias del entorno
 Las evidencias de la instalación se encuentran en la carpeta `/docs`:
-* **Java Version**: ![Java](.docs/Captura de pantalla1 2026-02-19 205325.png)
+* **Java Version**:
 * **Maven Version**:
 
 ## 3. Ejercicio Java con Maven
 Se implementó un programa básico con una multiplicación:
 * **Código**: Se utilizó `System.out.println` y variables tipo `int`.
-* **Ejecución**: ![Ejecución](./docs/ejecucion.png)
+* **Ejecución**:
 
 ## 4. Investigación: Arreglos en Java
 ### 4.1 Declaración e inicialización
