@@ -1,5 +1,5 @@
-##Tarea: Configuración de Entorno Java/Maven y Arreglos en Java
-#1. Configuración del entorno (Requisitos)
+## Tarea: Configuración de Entorno Java/Maven y Arreglos en Java
+# 1. Configuración del entorno (Requisitos)
 Se realizó la instalación y configuración de las siguientes herramientas:
 
 JDK 11
